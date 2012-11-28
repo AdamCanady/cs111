@@ -1,0 +1,12 @@
+# Caeser Cipher Encoder by Adam Canady
+
+# Get the user's input and desired code
+input = raw_input("Type a phrase to encode: ")
+code = raw_input("Type the code you'd like to use: ")
+code_len = len(code)
+
+def cipher(letter):
+    
+    code[n]
+    
+    n = n+1
